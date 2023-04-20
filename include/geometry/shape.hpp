@@ -24,7 +24,7 @@ public:
   /**
    * @brief Construct a new Shape object.
    *
-   * @param Properties Shape properties
+   * @param properties Shape properties
    */
   Shape(Properties properties) : properties_(properties){};
 
