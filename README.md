@@ -12,5 +12,5 @@ cmake .. && make
 This should print
 ```shell
 Cricle edges: 0, color: red
-Rectangle edges: 4, color: blue
+Rectangle edges: 4, color: yellow
 ```
